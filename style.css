@@ -1,0 +1,30 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa;
+}
+
+header h1 {
+  font-weight: bold;
+}
+
+.card {
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.card .btn {
+  margin-top: 12px;
+}
+
+.btn {
+  border-radius: 8px;
+}
+
+footer {
+  margin-top: 463px;
+  font-size: 14px;
+}
+
+main.container {
+  min-height: 300px;
+}

@@ -9,7 +9,7 @@ Tugas: Membuat **1 halaman sederhana** menggunakan **Bootstrap dan CSS**.
 - Footer
 
 ## Tampilan Website
-![Screenshot Website](./imaget.png)
+![Screenshot Website](./image.png)
 
 ## Link Repository
 [Klik di sini untuk membuka di GitHub](https://github.com/USERNAME/NAMA-REPO)
